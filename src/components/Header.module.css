@@ -1,0 +1,22 @@
+.list {
+    list-style: none;
+    float: right;
+}
+
+.listItem {
+    display: inline-block;
+    margin-right: 1rem;
+}
+
+.siteTitle {
+    display: inline;
+}
+
+.siteLink {
+    text-shadow: none;
+    background-image: none;
+}
+
+.container {
+    margin-bottom: 1.5rem;
+}
